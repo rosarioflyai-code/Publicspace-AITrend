@@ -41,7 +41,7 @@ async def main():
     }
 
     # Save the data to a JSON file
-    filepath = "/home/rosarioflyai/Publicspace-AITrend/site/data.json"
+    filepath = "/home/rosarioflyai/Publicspace-AITrend/data.json"
     with open(filepath, "w") as f:
         json.dump(data, f, indent=4)
 
