@@ -1,1 +1,4 @@
-genkit
+jinja2
+markdown
+google-generativeai
+genkit-plugin-google-genai
