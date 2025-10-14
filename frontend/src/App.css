@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.App-header button {
+  font-size: 1.2rem;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: #61dafb;
+  border: none;
+  cursor: pointer;
+}
+
+main {
+  padding: 20px;
+}
+
+.article {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.article h2 {
+  margin-top: 0;
+}
+
+.article .date {
+  color: #888;
+  font-size: 0.9rem;
+}
+
+.article img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
